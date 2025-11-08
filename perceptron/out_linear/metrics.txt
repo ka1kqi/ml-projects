@@ -1,0 +1,10 @@
+dataset: linear
+epochs: 300
+lr: 0.2
+l2: 0.001
+seed: 0
+accuracy: 0.997500
+w: [2.5905614933770074, 2.7959736141470497]
+b: 0.07017682196045918
+boundary_plot: ./out_linear/linear_boundary.png
+loss_plot: ./out_linear/linear_loss.png
