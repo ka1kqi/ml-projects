@@ -1,10 +1,10 @@
-dataset: linear
+dataset: xor
 epochs: 300
 lr: 0.2
 l2: 0.001
 seed: 0
-accuracy: 0.997500
-w: [2.5905614933770074, 2.7959736141470497]
-b: 0.07017682196045918
-boundary_plot: ./out_linear/linear_boundary.png
-loss_plot: ./out_linear/linear_loss.png
+accuracy: 0.516667
+w: [-0.0259648315827357, 0.020558141273241234]
+b: 1.0409287525684861e-07
+boundary_plot: ./out_linear/xor_boundary.png
+loss_plot: ./out_linear/xor_loss.png
